@@ -1,4 +1,4 @@
-package Rush;
+package com.LostForce;
 
 public class Rush {
 
