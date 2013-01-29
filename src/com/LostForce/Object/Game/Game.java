@@ -12,6 +12,7 @@ public class Game {
 		this.name = name;
 	}
 	
+	
 	public String getName() {
 		return name;
 	}
